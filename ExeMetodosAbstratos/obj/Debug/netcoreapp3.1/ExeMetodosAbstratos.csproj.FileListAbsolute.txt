@@ -1,0 +1,13 @@
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.exe
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.deps.json
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.runtimeconfig.json
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.runtimeconfig.dev.json
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.dll
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\bin\Debug\netcoreapp3.1\ExeMetodosAbstratos.pdb
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.csprojAssemblyReference.cache
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.AssemblyInfoInputs.cache
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.AssemblyInfo.cs
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.dll
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.pdb
+D:\Cursos_Dev\Projetos\ExeMetodosAbstratos\ExeMetodosAbstratos\obj\Debug\netcoreapp3.1\ExeMetodosAbstratos.genruntimeconfig.cache
